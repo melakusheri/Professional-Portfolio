@@ -1,0 +1,114 @@
+section{
+    height: 500px            ;
+    background-color: white;
+    border: solid black 1px;
+  
+  }
+  .hero{
+    background-color: black;
+    height: 100vh;
+    color: cornsilk;
+    font-size: 30px;
+    
+  }
+  footer{
+     
+     background-color: black;
+     color: white;
+     text-align: center ;
+     padding: 80px;
+  
+  }    
+  
+  nav{
+     display:flex;
+     justify-content: space-between;
+  }
+  ul{
+     display: flex;
+     list-style-type: none;
+     width: 500px;
+     justify-content: space-around;
+     font-size: 30px;
+  }li{
+    text-decoration: none;
+  }
+  h1{
+    font-size: 90px;
+    margin: 0;
+    
+    }
+  h2{
+    font-size: 50px;
+    margin: 0;
+  
+  }
+  
+    
+  p{
+    margin: 0;
+    font-size: 30px;
+  
+  }
+  .hero-area{
+    display: flex;
+    flex-direction: column;
+    height: 40%;
+    justify-content: center;
+  }
+  .hero-text{
+    margin-left: 80px;
+    margin: bottom 200px; ;
+  }
+  .my-picture{
+    height: 200px;
+    margin: 50px;
+    border-radius: 60%;
+    margin-right: 10px;
+  
+  }
+  .sub-section{
+    display:flex;
+    justify-content: space-around;
+    padding: 80px;
+  }
+  
+  .sub-section-alternative {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 80px;
+  
+  }
+  .melaku-pic{
+    width: 300px;
+    border-radius: 200px;
+  }
+  .aboutme-container{
+    display: flex;
+    align-items: center;
+  }
+  .work-card {
+    width: 200px;
+    height: 500px;
+    border: 1px solid black;
+  }
+  .work-container{
+    display: flex;
+    justify-content: space-around;
+  
+  }
+  
+  .work-image{
+    width: 200px;
+    height: 400px; ;
+  }
+  .work-image2{
+    width: 200px;
+    height: 400px;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  
